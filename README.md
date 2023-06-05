@@ -47,7 +47,7 @@ To populate the tables with sample data, SQL queries for data insertion have bee
 
 ## Data Retrieval Queries 🔍
 
-To retrieve data from the database, a set of sample queries have been included in the [Data Retrieval Queries](data-retrieval-queries.sql) file. These queries demonstrate how to retrieve tracks in a playlist, liked tracks by a user, and users following an artist. You can further enhance and customize these queries based on your specific needs.
+To retrieve data from the database, a set of sample queries have been included in the [Data Retrieval Queries](https://github.com/Mobiwn/Spotify-Database-Design/tree/main/Source%20Code/Data%20Retrieval%20Queries) file. These queries demonstrate how to retrieve tracks in a playlist, liked tracks by a user, and users following an artist. You can further enhance and customize these queries based on your specific needs.
 
 ## Getting Started 🚀
 
