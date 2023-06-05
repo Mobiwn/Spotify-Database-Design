@@ -1,7 +1,7 @@
 # SpotifyDBDesign 🎵
 
 <p align="center">
-  <img src="spotify-logo.png" alt="SpotifyDBDesign" width="200">
+  <img src="[Spotify-Logo.PNG)" alt="SpotifyDBDesign" width="200">
 </p>
 
 ## Introduction 📖
