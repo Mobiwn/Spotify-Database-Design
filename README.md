@@ -43,7 +43,7 @@ Here is an ER (Entity-Relationship) diagram depicting the relationships between 
 
 ## Data Insertion 💾
 
-To populate the tables with sample data, SQL queries for data insertion have been provided. These queries can be found in the [Data Insertion](data-insertion.sql) file. Feel free to modify and expand these queries to fit your specific data requirements.
+To populate the tables with sample data, SQL queries for data insertion have been provided. These queries can be found in the [Data Insertion](https://github.com/Mobiwn/Spotify-Database-Design/tree/main/Source%20Code/Spotify%20Data%20Insertion%20Queries) file. Feel free to modify and expand these queries to fit your specific data requirements.
 
 ## Data Retrieval Queries 🔍
 
