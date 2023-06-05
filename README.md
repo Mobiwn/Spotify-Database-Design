@@ -53,7 +53,7 @@ To retrieve data from the database, a set of sample queries have been included i
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/SpotifyDBDesign.git`
+1. Clone the repository: `git clone https://github.com/Mobiwn/Spotify-Database-Design.git`
 2. Set up your PostgreSQL database and connection details.
 3. Run the SQL code provided in the [Database Design](database-design.sql) file to create the necessary tables.
 4. Insert sample data using the SQL code provided in the [Data Insertion](data-insertion.sql) file.
