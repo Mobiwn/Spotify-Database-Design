@@ -38,7 +38,7 @@ The table structures, relationships, and SQL code for creating the tables can be
 Here is an ER (Entity-Relationship) diagram depicting the relationships between the tables in the SpotifyDBDesign:
 
 <p align="center">
-  <img src="er-diagram.png" alt="ER Diagram" width="600">
+  <img src="Spotify%20ERD%20(PostgreSQL).png" alt="ER Diagram" width="600">
 </p>
 
 ## Data Insertion 💾
