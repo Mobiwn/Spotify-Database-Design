@@ -31,7 +31,7 @@ The database design consists of several tables, each serving a specific purpose 
 - **Followers**: 👥 Stores the association between users and artists. It includes foreign keys linking to the Users and Artists tables.
 - **Likes**: ❤️ Stores information about tracks liked by users, including the date and time of the like. It includes foreign keys linking to the Users and Tracks tables.
 
-The table structures, relationships, and SQL code for creating the tables can be found in the [Database Design](database-design.sql) file.
+The table structures, relationships, and SQL code for creating the tables can be found in the [Database Design](https://github.com/Mobiwn/Spotify-Database-Design/tree/main/Source%20Code) file.
 
 ## ER Diagram 🗺️
 
