@@ -53,7 +53,7 @@ To retrieve data from the database, a set of sample queries have been included i
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Mobiwn/Spotify-Database-Design.git`
+1. Clone the repository: `git clone https://github.com/MIbrahimPro/Spotify-Database-Design`
 2. Set up your PostgreSQL database and connection details.
 3. Run the SQL code provided in the [Database Design](https://github.com/Mobiwn/Spotify-Database-Design/tree/main/Source%20Code) file to create the necessary tables.
 4. Insert sample data using the SQL code provided in the [Data Insertion](https://github.com/Mobiwn/Spotify-Database-Design/tree/main/Source%20Code/Spotify%20Data%20Insertion%20Queries) file.
@@ -63,6 +63,8 @@ To get started with this project, follow these steps:
 
 Contributions to this project are welcome! If you have any suggestions, improvements, or additional features to propose, please feel free to open an issue or submit a pull request. Let's collaborate and make this database design even better!
 
-## License 📄
+## License and Credits📄
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+The one who started it
+https://github.com/Mobiwn/Spotify-Database-Design.git
+I just added featres and upgraades
